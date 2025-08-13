@@ -12,3 +12,8 @@ El boxeo es una forma de combate cuerpo a cuerpo sin armas en el que un deportis
 1. No alterar los guantes con yeso o materiales que los endurezcan.
 2. No se debe patear al contrincante.
 3. No se debe golpear la nuca o detrás de la cabeza.
+
+## Consejos
+- Mantenerlo en constante movilidad
+- Utilizar el jab y el directo de izquierda.
+- Con desplazamiento hacia la izquierda en círculo lance el directo de izquierda.
