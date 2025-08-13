@@ -15,4 +15,10 @@ Los ejercicios de fuerza son actividades que sirven para mejorar tu salud cardia
 
 - Levanta un peso adecuado
 - Adopta la forma correcta en tu cuerpo
-- Respira
+- Respira 
+
+## Consejos
+
+- Calienta primero
+- Prioriza la tecnica
+- Programa para el progreso
