@@ -13,3 +13,8 @@ Los ejercicios de flexibilidad son actividades que ayudan a la activacion de los
 1. Hacer estiramientos sin peligro
 2. Estiramiento de la pantorrilla
 3. Estiramiento de los músculos isquiotibiales
+
+## Consejos
+- Estiramiento
+- Ir de a poco
+- Mantener un proceso progresivo
