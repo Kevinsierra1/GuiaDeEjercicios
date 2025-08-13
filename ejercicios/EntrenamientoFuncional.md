@@ -8,3 +8,8 @@ Tienen como objetivo que los músculos trabajen juntos y no de forma aislada, y 
 - Pérdida de peso
 - Mejoras en la Capacidad aeróbica
 - aumento del VO2máx
+
+## Instrucciones
+- Foco Absoluto en la Técnica
+- Progresión Gradual y Paciente
+- Consistencia y Regularidad
