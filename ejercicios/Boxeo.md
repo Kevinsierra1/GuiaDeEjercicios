@@ -7,3 +7,8 @@ El boxeo es una forma de combate cuerpo a cuerpo sin armas en el que un deportis
 - Libera tensiones y estrés
 - Mejora tu resistencia física
 - Mejora tu salud cardiovascular
+
+## Instrucciones
+1. No alterar los guantes con yeso o materiales que los endurezcan.
+2. No se debe patear al contrincante.
+3. No se debe golpear la nuca o detrás de la cabeza.
