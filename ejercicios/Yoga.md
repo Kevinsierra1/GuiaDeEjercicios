@@ -14,3 +14,8 @@ El yoga es una actividad que permite controlar tu respiracion para tener mas aut
 - HAZ UNA MICRO FLEXIÓN DE RODILLAS (O CODOS)
 - ALARGA EL SACRO
 - UNE LAS COSTILLAS FRONTALES
+
+## Consejos
+- Ejercicio adecuado (Asanas)
+- Respiración adecuada (Pranayama)
+- Relajación adecuada (Savasana) 
