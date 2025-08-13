@@ -10,3 +10,9 @@ Los ejercicios de fuerza son actividades que sirven para mejorar tu salud cardia
 - Reduce las molestias relacionadas con la artrosis.
 - Reduce el riesgo de padecer diabetes tipo II y de la necesidad de insulina.
 - Reduce el riesgo de padecer enfermedades cardiovasculares.
+
+# Instrucciones 
+
+- Levanta un peso adecuado
+- Adopta la forma correcta en tu cuerpo
+- Respira
