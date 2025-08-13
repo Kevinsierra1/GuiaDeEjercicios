@@ -8,3 +8,8 @@ El ciclismo es un deporte simétrico que se practica con un elemento mecánico (
 - Ayuda a dormir mejor
 - Tonifica y fortalece la espalda
 - Corazón fuerte
+
+## Instrucciones
+1. Usar casco
+2. Evita distracciones
+3. Respetar señales de transito
