@@ -8,3 +8,9 @@ Es el arte de sostenerse y avanzar, usando los brazos y las piernas, sobre o baj
 - Es un ejercicio completo
 - Mejora el aparato respiratorio y cardiovascular
 
+## Instrucciones
+1. Aprende a nadar
+2. Nunca nades solo.
+3. No mezcles alcohol con actividades acuáticas.
+
+
