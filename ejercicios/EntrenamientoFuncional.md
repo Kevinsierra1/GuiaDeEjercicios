@@ -13,3 +13,8 @@ Tienen como objetivo que los músculos trabajen juntos y no de forma aislada, y 
 - Foco Absoluto en la Técnica
 - Progresión Gradual y Paciente
 - Consistencia y Regularidad
+
+## Consejos
+- Escucha Activa del Cuerpo:
+- mportancia del Calentamiento y Enfriamiento:
+- Calentamiento Dinámico
