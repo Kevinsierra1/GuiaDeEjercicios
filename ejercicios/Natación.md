@@ -13,4 +13,7 @@ Es el arte de sostenerse y avanzar, usando los brazos y las piernas, sobre o baj
 2. Nunca nades solo.
 3. No mezcles alcohol con actividades acuáticas.
 
-
+## Consejos
+- Presta atención a la posición de tu cabeza
+- Extiende los brazos hacia delante
+- Mezclar distintos tipos de brazada
