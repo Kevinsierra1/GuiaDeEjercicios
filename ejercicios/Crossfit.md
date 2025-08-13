@@ -11,3 +11,7 @@ El crossfit es un ejercicio que sirve para adquirir fuerza
 1. Ir progresivamente   
 2. Conoce tu fuerza 
 
+## Consejos
+- Estiramiento
+- Ir de a poco
+- Mantener un proceso progresivo
