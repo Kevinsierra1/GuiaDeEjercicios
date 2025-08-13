@@ -12,3 +12,8 @@ es una práctica que conecta el cuerpo, la respiración y la mente. Esta prácti
 1. Respracion
 2. Coordinacion
 3. Equilibrio 
+
+## Consejos
+- Encuentra un instructor cualificado.
+- omienza con ejercicios básicos.
+- Escucha a tu cuerpo.
