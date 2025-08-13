@@ -13,3 +13,7 @@ El ciclismo es un deporte simétrico que se practica con un elemento mecánico (
 1. Usar casco
 2. Evita distracciones
 3. Respetar señales de transito
+
+## Consejos
+- Planifica tu ruta ciclista: Estrategias para rutas de larga distancia 
+- Encuentra amigos afines 
