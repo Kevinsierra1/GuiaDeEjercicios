@@ -9,3 +9,8 @@ El yoga es una actividad que permite controlar tu respiracion para tener mas aut
 - Ayudarle a dormir mejor.
 - Ayudar a la digestión.
 
+## Instrucciones 
+- LEVANTA LOS ARCOS DE LOS PIES
+- HAZ UNA MICRO FLEXIÓN DE RODILLAS (O CODOS)
+- ALARGA EL SACRO
+- UNE LAS COSTILLAS FRONTALES
